@@ -1,0 +1,2 @@
+IMO;MMSI;Name;Type;Fleet;FlagISO2Code;CallSign;BuildDate;BuildersSerialNumber;DeliveredToPrincipalsDate;RegisteredOwner;PortOfRegistry;ForceUpdate;LoaM;BeamM;DisplacementKg;SummerDwtKg;SummerDraftM;InternationalNetTonnage;InternationalGrossTonnage
+1111111;111111111;Name_1;CONTAINER;Fleet_1;UA;CallSign_1;2003-10-02T10:00:00;BuildersSerialN_1;2003-10-02T10:00:00;Ocean.ly Maritime;ODESSA;TRUE;1;2;3;4;5;6;7
