@@ -2,12 +2,14 @@ package main
 
 import (
 	"bytes"
+	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/xuri/excelize/v2"
 	"os"
 	"strings"
 	"time"
+
+	excelize "github.com/xuri/excelize/v2"
 )
 
 var fileName = "./testdata/Gas Wisdom_Noon Report (V33).xlsx"
@@ -19,14 +21,26 @@ func main() {
 	}
 
 	start := time.Now()
-	sheetName, rows, err := readXLSX(body, 0)
+	sheetName, columns, err := readXLSX(body, 0)
 	if err != nil {
 		panic(err)
 	}
 	fmt.Printf("with excelize library: %s\n", time.Since(start))
 	fmt.Printf("sheet name: %s", sheetName)
 
-	_ = rows
+	reports, err := asReports(columns)
+	if err != nil {
+		panic(err)
+	}
+
+	content, err := json.MarshalIndent(reports, "", "\t")
+	if err != nil {
+		panic(err)
+	}
+
+	if err = os.WriteFile("out.json", content, os.ModePerm); err != nil {
+		panic(err)
+	}
 }
 
 // readXLSX reads specified sheet of provided xlsx file,
@@ -57,12 +71,13 @@ func readXLSX(body []byte, sheetIndex uint) (string, [][]string, error) {
 	var (
 		// once iterating through the file will meet 10 continuously blank
 		// columns it will stop iterating since it seems to be the end of the file
-		maxBlankColumns     = 10
+		maxBlankColumns     = 3
 		currentBlankColumns = 0
 	)
 
-	for cols.Next() && currentBlankColumns < maxBlankColumns { // stop iterating if max blank column limit eccided
+	columns := make([][]string, 0)
 
+	for {
 		values, err := cols.Rows()
 		if err != nil {
 			return "", nil, fmt.Errorf("failed to get values from column: %w", err)
@@ -70,13 +85,18 @@ func readXLSX(body []byte, sheetIndex uint) (string, [][]string, error) {
 
 		if isColumnBlank(values) {
 			currentBlankColumns++
-			continue
-		} else { // if column isn't blank - break the sequence
+		} else { // if column isn't blank - break the sequence and append the column
 			currentBlankColumns = 0
+			columns = append(columns, values)
+		}
+
+		// stop iterating if max blank column limit exceeded
+		if !cols.Next() || currentBlankColumns >= maxBlankColumns {
+			break
 		}
 	}
 
-	return sheetName, excludeEmptyRows(rows), nil
+	return sheetName, columns, nil
 }
 
 func isColumnBlank(column []string) bool {
@@ -89,20 +109,82 @@ func isColumnBlank(column []string) bool {
 	return true
 }
 
-func excludeEmptyRows(sourceRows [][]string) (rows [][]string) {
-	rows = make([][]string, 0, len(sourceRows))
-	for _, sRow := range sourceRows {
-		if len(sRow) != 0 {
-			rows = append(rows, sRow)
-		}
+func asReports(columns [][]string) ([]Report, error) {
+	switch {
+	case len(columns) < 3:
+		return nil, errors.New("should contain more that two columns, first is `Keys`, " +
+			"second is `Units`, the rest for the values")
 	}
 
-	return
+	keys := columns[0]
+	units := columns[1]
+
+	values := columns[2:]
+
+	titleIndex := findTitleIndex(keys)
+	switch {
+	case titleIndex == -1:
+		return nil, errors.New("unexpected structure of the file, unable to find title index")
+	case titleIndex >= len(keys)-1:
+		return nil, errors.New("no keys under the title")
+	}
+
+	reports := make([]Report, 0, len(values))
+
+	for _, cursor := range values {
+		report, err := asReport(keys, units, cursor, titleIndex)
+		if err != nil {
+			return nil, err
+		}
+
+		reports = append(reports, report)
+	}
+
+	return reports, nil
 }
 
-func asRecords(rows [][]string) ([]Record, error) {
-	switch {
-	case len(rows) < 2:
-		return nil, errors.New("")
+func asReport(keys, units, values []string, titleIndex int) (Report, error) {
+	report := Report{}
+
+	date := strings.TrimSpace(valueFromByIndex(values, titleIndex))
+	if len(date) != 0 {
+		report.Date = date
+	} else {
+		report.Error += fmt.Sprintf("[ReportDate is blank]") // sample of error message
 	}
+
+	for i := titleIndex + 1; i < len(keys); i++ {
+		var (
+			key   = keys[i]
+			unit  = valueFromByIndex(units, i)
+			value = valueFromByIndex(values, i)
+		)
+
+		field := Field{
+			Raw:   fmt.Sprintf("%s %s %s", key, unit, value),
+			Key:   strings.TrimSpace(strings.TrimRight(strings.TrimLeft(key, "1234567890)"), ":")),
+			Value: strings.TrimSpace(value),
+			Units: strings.TrimSpace(unit),
+		}
+		report.Fields = append(report.Fields, field)
+	}
+
+	return report, nil
+}
+
+func valueFromByIndex(array []string, index int) string {
+	if index >= len(array) {
+		return "" // no value for the index
+	}
+
+	return array[index]
+}
+
+func findTitleIndex(keys []string) int {
+	for index, key := range keys {
+		if strings.EqualFold(strings.TrimSpace(key), "NOON REPORT") {
+			return index
+		}
+	}
+	return -1
 }

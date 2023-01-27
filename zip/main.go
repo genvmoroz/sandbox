@@ -2,6 +2,7 @@ package main
 
 import (
 	"archive/zip"
+	"encoding/base64"
 	"fmt"
 	"io"
 	"math"
@@ -10,17 +11,12 @@ import (
 )
 
 func main() {
-	//err := write("data", "data.zip")
-	//if err != nil {
-	//	panic(err)
-	//}
-
 	body, err := os.ReadFile("./data.zip")
 	if err != nil {
 		panic(err)
 	}
 
-	fmt.Println(prettyStr(body, 15))
+	fmt.Println(base64.StdEncoding.EncodeToString(body))
 }
 
 func prettyStr(source []byte, size uint) string {

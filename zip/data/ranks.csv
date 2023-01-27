@@ -1,0 +1,3 @@
+ID;Code;Name;Department;InUse;Sorting;Groups;IsCrew;IsCrewMatrixOfficer;IsWatchkeepingOfficer;IsOfficer;IsTrainee;PromotionRankID
+7f364441-bb0f-4853-ac23-4cacf11bfa55;CPT;Captain;;true;10;73eca2cd-744b-460a-89a4-1770c30baeb4;true;true;true;false;true;
+3b40471a-376a-4d57-a7d6-157b3c53a40b;SCO;Senior chief officer;DECK;true;20;73eca2cd-744b-460a-89a4-1770c30baeb4;true;true;true;false;true;7f364441-bb0f-4853-ac23-4cacf11bfa55

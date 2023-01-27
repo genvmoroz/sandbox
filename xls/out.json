@@ -1,0 +1,4895 @@
+[
+	{
+		"date": "2022-07-04",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-4",
+				"key": "Date at Noon",
+				"value": "Jul-4",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  36-11N 130-55E",
+				"key": "Position at noon",
+				"value": "36-11N 130-55E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +09:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+09:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 13:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 13:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 8166",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "8166",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 80",
+				"key": "Steaming Dist. From Last Report",
+				"value": "80",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 5",
+				"key": "Steaming Time From Last Report",
+				"value": "5",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16",
+				"key": "Ave. Speed From Last Report",
+				"value": "16",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 80",
+				"key": "Steaming Dist. From Last Port",
+				"value": "80",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16",
+				"key": "Ave. Speed From Last Port",
+				"value": "16",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  SE",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "SE",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 75.5",
+				"key": "MCR Noon to Noon",
+				"value": "75.5",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  83.96",
+				"key": "RPM Noon to Noon",
+				"value": "83.96",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 6.06",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "6.06",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.47",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.47",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 0.72",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "0.72",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.31",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.31",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 6.78",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "6.78",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.78",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.78",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 6.06",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "6.06",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0.47",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0.47",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 0.72",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "0.72",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.31",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.31",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 1134.65",
+				"key": "FO ROB at Noon",
+				"value": "1134.65",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.67",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.67",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-05",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-5",
+				"key": "Date at Noon",
+				"value": "Jul-5",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  39-55N 137-41E",
+				"key": "Position at noon",
+				"value": "39-55N 137-41E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +09:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+09:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 13:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 13:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 7775",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "7775",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 391",
+				"key": "Steaming Dist. From Last Report",
+				"value": "391",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.29",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.29",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 471",
+				"key": "Steaming Dist. From Last Port",
+				"value": "471",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.24",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.24",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  S",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "S",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 76.3",
+				"key": "MCR Noon to Noon",
+				"value": "76.3",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  84.24",
+				"key": "RPM Noon to Noon",
+				"value": "84.24",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 35.54",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "35.54",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.39",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.39",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.59",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.59",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.26",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.26",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 40.5",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "40.5",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 36.88",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "36.88",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.62",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.62",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 1094.15",
+				"key": "FO ROB at Noon",
+				"value": "1094.15",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.57",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.57",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-06",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-6",
+				"key": "Date at Noon",
+				"value": "Jul-6",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  41-36N 145-45E",
+				"key": "Position at noon",
+				"value": "41-36N 145-45E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +09:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+09:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 13:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 13:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 7377",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "7377",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 398",
+				"key": "Steaming Dist. From Last Report",
+				"value": "398",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.58",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.58",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 869",
+				"key": "Steaming Dist. From Last Port",
+				"value": "869",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.4",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.4",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  S",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "S",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 73.5",
+				"key": "MCR Noon to Noon",
+				"value": "73.5",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  83.2",
+				"key": "RPM Noon to Noon",
+				"value": "83.2",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 35.97",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "35.97",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.21",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.21",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4.19",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4.19",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.19",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.19",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 41.41",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "41.41",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 36.49",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "36.49",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.92",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.92",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 1052.74",
+				"key": "FO ROB at Noon",
+				"value": "1052.74",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.47",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.47",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-07",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-7",
+				"key": "Date at Noon",
+				"value": "Jul-7",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  42-37N 153-43E",
+				"key": "Position at noon",
+				"value": "42-37N 153-43E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +10:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+10:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 13:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 13:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 6967",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "6967",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 362",
+				"key": "Steaming Dist. From Last Report",
+				"value": "362",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.74",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.74",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 1231",
+				"key": "Steaming Dist. From Last Port",
+				"value": "1231",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.2",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.2",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  E",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "E",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 69.7",
+				"key": "MCR Noon to Noon",
+				"value": "69.7",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  81.75",
+				"key": "RPM Noon to Noon",
+				"value": "81.75",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 35.73",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "35.73",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.15",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.15",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.99",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.99",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.16",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.16",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 37.11",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "37.11",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 33.72",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "33.72",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.39",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.39",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 1015.63",
+				"key": "FO ROB at Noon",
+				"value": "1015.63",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.37",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.37",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-08",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-8",
+				"key": "Date at Noon",
+				"value": "Jul-8",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  43-52N 162-27E",
+				"key": "Position at noon",
+				"value": "43-52N 162-27E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +10:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+10:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 10:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 10:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 6577",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "6577",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 390",
+				"key": "Steaming Dist. From Last Report",
+				"value": "390",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.25",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.25",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 1621",
+				"key": "Steaming Dist. From Last Port",
+				"value": "1621",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.21",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.21",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  W",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "W",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 75.1",
+				"key": "MCR Noon to Noon",
+				"value": "75.1",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  83.82",
+				"key": "RPM Noon to Noon",
+				"value": "83.82",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 35.9",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "35.9",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4.02",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4.02",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.15",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.15",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 40.52",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "40.52",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 36.44",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "36.44",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.08",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.08",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 975.11",
+				"key": "FO ROB at Noon",
+				"value": "975.11",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.27",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.27",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-09",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-9",
+				"key": "Date at Noon",
+				"value": "Jul-9",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  45-00N 170-53E",
+				"key": "Position at noon",
+				"value": "45-00N 170-53E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +11:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+11:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 10:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 10:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 6208",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "6208",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 369",
+				"key": "Steaming Dist. From Last Report",
+				"value": "369",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.04",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.04",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 1990",
+				"key": "Steaming Dist. From Last Port",
+				"value": "1990",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.18",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.18",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  W",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "W",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 76.4",
+				"key": "MCR Noon to Noon",
+				"value": "76.4",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  84.3",
+				"key": "RPM Noon to Noon",
+				"value": "84.3",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.29",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.29",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.09",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.09",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4.04",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4.04",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.14",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.14",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 40.34",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "40.34",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 36.39",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "36.39",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.95",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.95",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 934.77",
+				"key": "FO ROB at Noon",
+				"value": "934.77",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.17",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.17",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-10",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-10",
+				"key": "Date at Noon",
+				"value": "Jul-10",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  44-50N 179-37E",
+				"key": "Position at noon",
+				"value": "44-50N 179-37E",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +11:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+11:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 10:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 10:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 5835",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "5835",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 373",
+				"key": "Steaming Dist. From Last Report",
+				"value": "373",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.54",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.54",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 2363",
+				"key": "Steaming Dist. From Last Port",
+				"value": "2363",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.07",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.07",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  ESE",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "ESE",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 71.3",
+				"key": "MCR Noon to Noon",
+				"value": "71.3",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  82.35",
+				"key": "RPM Noon to Noon",
+				"value": "82.35",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.33",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.33",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.08",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.08",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.13",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.13",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 40.35",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "40.35",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 36.56",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "36.56",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.79",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.79",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 894.32",
+				"key": "FO ROB at Noon",
+				"value": "894.32",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 243.07",
+				"key": "LSMGO ROB at Noon",
+				"value": "243.07",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-11",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-11",
+				"key": "Date at Noon",
+				"value": "Jul-11",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  44-39N 171-39W",
+				"key": "Position at noon",
+				"value": "44-39N 171-39W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours +12:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "+12:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 10:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 10:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 5462",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "5462",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 373",
+				"key": "Steaming Dist. From Last Report",
+				"value": "373",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.22",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.22",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 2736",
+				"key": "Steaming Dist. From Last Port",
+				"value": "2736",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.09",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.09",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  SSW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "SSW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 72.3",
+				"key": "MCR Noon to Noon",
+				"value": "72.3",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  82.75",
+				"key": "RPM Noon to Noon",
+				"value": "82.75",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.37",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.37",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.07",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.07",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.95",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.95",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.13",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.13",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 39.47",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "39.47",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 35.05",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "35.05",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.52",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.52",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0.9",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0.9",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 854.95",
+				"key": "FO ROB at Noon",
+				"value": "854.95",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.97",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.97",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-11",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-11",
+				"key": "Date at Noon",
+				"value": "Jul-11",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  43-22N 162-39W",
+				"key": "Position at noon",
+				"value": "43-22N 162-39W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -12:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-12:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 10:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 10:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 5063",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "5063",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 399",
+				"key": "Steaming Dist. From Last Report",
+				"value": "399",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.63",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.63",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 3135",
+				"key": "Steaming Dist. From Last Port",
+				"value": "3135",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.16",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.16",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  WSW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "WSW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 77.7",
+				"key": "MCR Noon to Noon",
+				"value": "77.7",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  84.78",
+				"key": "RPM Noon to Noon",
+				"value": "84.78",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.52",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.52",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.06",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.06",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.92",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.92",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.12",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.12",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 41.35",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "41.35",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 37.65",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "37.65",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.7",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.7",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 813.6",
+				"key": "FO ROB at Noon",
+				"value": "813.6",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.87",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.87",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-12",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-12",
+				"key": "Date at Noon",
+				"value": "Jul-12",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  41-48N 153-48W",
+				"key": "Position at noon",
+				"value": "41-48N 153-48W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -12:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-12:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 4660",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "4660",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 403",
+				"key": "Steaming Dist. From Last Report",
+				"value": "403",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.79",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.79",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 3538",
+				"key": "Steaming Dist. From Last Port",
+				"value": "3538",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.23",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.23",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  SW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "SW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 77.7",
+				"key": "MCR Noon to Noon",
+				"value": "77.7",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  84.75",
+				"key": "RPM Noon to Noon",
+				"value": "84.75",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.67",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.67",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.05",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.05",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.91",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.91",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.12",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.12",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 42.04",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "42.04",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 37.85",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "37.85",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.82",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.82",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0.37",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0.37",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 771.56",
+				"key": "FO ROB at Noon",
+				"value": "771.56",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.77",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.77",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-13",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-13",
+				"key": "Date at Noon",
+				"value": "Jul-13",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  39-37N 146-06W",
+				"key": "Position at noon",
+				"value": "39-37N 146-06W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -11:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-11:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 4284",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "4284",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 376",
+				"key": "Steaming Dist. From Last Report",
+				"value": "376",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.35",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.35",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 3914",
+				"key": "Steaming Dist. From Last Port",
+				"value": "3914",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.24",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.24",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  W",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "W",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 78.3",
+				"key": "MCR Noon to Noon",
+				"value": "78.3",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  84.97",
+				"key": "RPM Noon to Noon",
+				"value": "84.97",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.77",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.77",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.05",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.05",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.88",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.88",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.12",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.12",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 40.14",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "40.14",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 36.19",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "36.19",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.5",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.5",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0.45",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0.45",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 731.42",
+				"key": "FO ROB at Noon",
+				"value": "731.42",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.67",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.67",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-14",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-14",
+				"key": "Date at Noon",
+				"value": "Jul-14",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  36-41N 138-38W",
+				"key": "Position at noon",
+				"value": "36-41N 138-38W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -11:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-11:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 3889",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "3889",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 6",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "6",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.2",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.2",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 395",
+				"key": "Steaming Dist. From Last Report",
+				"value": "395",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.46",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.46",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 4309",
+				"key": "Steaming Dist. From Last Port",
+				"value": "4309",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.26",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.26",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  W",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "W",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 76.8",
+				"key": "MCR Noon to Noon",
+				"value": "76.8",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  84.42",
+				"key": "RPM Noon to Noon",
+				"value": "84.42",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.86",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.86",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.04",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.04",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.88",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.88",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.12",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.12",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 41.56",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "41.56",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 37.77",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "37.77",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.79",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.79",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 689.86",
+				"key": "FO ROB at Noon",
+				"value": "689.86",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.57",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.57",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-16",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-16",
+				"key": "Date at Noon",
+				"value": "Jul-16",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  30-29N 125-32W",
+				"key": "Position at noon",
+				"value": "30-29N 125-32W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -10:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-10:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 3135",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "3135",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 382",
+				"key": "Steaming Dist. From Last Report",
+				"value": "382",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.92",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.92",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 5065",
+				"key": "Steaming Dist. From Last Port",
+				"value": "5065",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.23",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.23",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  N",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "N",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 71.7",
+				"key": "MCR Noon to Noon",
+				"value": "71.7",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  82.54",
+				"key": "RPM Noon to Noon",
+				"value": "82.54",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.78",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.78",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.04",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.04",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.86",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.86",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.12",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.12",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 38.94",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "38.94",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 35.24",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "35.24",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 3.7",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "3.7",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 610.5",
+				"key": "FO ROB at Noon",
+				"value": "610.5",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.37",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.37",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-17",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-17",
+				"key": "Date at Noon",
+				"value": "Jul-17",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  27-41N 119-30W",
+				"key": "Position at noon",
+				"value": "27-41N 119-30W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -09:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-09:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 2771",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "2771",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 360",
+				"key": "Steaming Dist. From Last Report",
+				"value": "360",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.65",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.65",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 5425",
+				"key": "Steaming Dist. From Last Port",
+				"value": "5425",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.19",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.19",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  NE",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "NE",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 71.4",
+				"key": "MCR Noon to Noon",
+				"value": "71.4",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  82.4",
+				"key": "RPM Noon to Noon",
+				"value": "82.4",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.65",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.65",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.03",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.03",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.9",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.9",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.12",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.12",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 37.76",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "37.76",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 33.54",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "33.54",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.22",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.22",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 572.74",
+				"key": "FO ROB at Noon",
+				"value": "572.74",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.27",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.27",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-18",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-18",
+				"key": "Date at Noon",
+				"value": "Jul-18",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  24-25N 113-33W",
+				"key": "Position at noon",
+				"value": "24-25N 113-33W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -09:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-09:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 2391",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "2391",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 380",
+				"key": "Steaming Dist. From Last Report",
+				"value": "380",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.83",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.83",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 5805",
+				"key": "Steaming Dist. From Last Port",
+				"value": "5805",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.17",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.17",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  NNW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "NNW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 71.3",
+				"key": "MCR Noon to Noon",
+				"value": "71.3",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  82.37",
+				"key": "RPM Noon to Noon",
+				"value": "82.37",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.55",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.55",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.03",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.03",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.91",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.91",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 39.22",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "39.22",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 35.17",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "35.17",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.05",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.05",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 533.52",
+				"key": "FO ROB at Noon",
+				"value": "533.52",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.17",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.17",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-19",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-19",
+				"key": "Date at Noon",
+				"value": "Jul-19",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  20-23N 108-57W",
+				"key": "Position at noon",
+				"value": "20-23N 108-57W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -08:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-08:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 2038",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "2038",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 353",
+				"key": "Steaming Dist. From Last Report",
+				"value": "353",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.35",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.35",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 6158",
+				"key": "Steaming Dist. From Last Port",
+				"value": "6158",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.12",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.12",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  SSW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "SSW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 67.2",
+				"key": "MCR Noon to Noon",
+				"value": "67.2",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  80.76",
+				"key": "RPM Noon to Noon",
+				"value": "80.76",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.5",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.5",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.03",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.03",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.94",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.94",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 40.43",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "40.43",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 34.22",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "34.22",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.23",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.23",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 1.98",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "1.98",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 493.09",
+				"key": "FO ROB at Noon",
+				"value": "493.09",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 242.07",
+				"key": "LSMGO ROB at Noon",
+				"value": "242.07",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-20",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-20",
+				"key": "Date at Noon",
+				"value": "Jul-20",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  16-52N 103-17W",
+				"key": "Position at noon",
+				"value": "16-52N 103-17W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -08:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-08:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 1651",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "1651",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 387",
+				"key": "Steaming Dist. From Last Report",
+				"value": "387",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 16.13",
+				"key": "Ave. Speed From Last Report",
+				"value": "16.13",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 6545",
+				"key": "Steaming Dist. From Last Port",
+				"value": "6545",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.12",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.12",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  5",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "5",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  WNW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "WNW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Fresh breeze and Moderate sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Fresh breeze and Moderate sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 70",
+				"key": "MCR Noon to Noon",
+				"value": "70",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  81.87",
+				"key": "RPM Noon to Noon",
+				"value": "81.87",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.44",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.44",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.03",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.03",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.97",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.97",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 41.58",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "41.58",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 35.41",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "35.41",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.51",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.51",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 1.66",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "1.66",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 451.51",
+				"key": "FO ROB at Noon",
+				"value": "451.51",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 241.97",
+				"key": "LSMGO ROB at Noon",
+				"value": "241.97",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-21",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-21",
+				"key": "Date at Noon",
+				"value": "Jul-21",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  13-47N 098-18W",
+				"key": "Position at noon",
+				"value": "13-47N 098-18W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -07:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-07:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 1308",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "1308",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 343",
+				"key": "Steaming Dist. From Last Report",
+				"value": "343",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 14.91",
+				"key": "Ave. Speed From Last Report",
+				"value": "14.91",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 6888",
+				"key": "Steaming Dist. From Last Port",
+				"value": "6888",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.06",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.06",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  W",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "W",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 64.2",
+				"key": "MCR Noon to Noon",
+				"value": "64.2",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  79.53",
+				"key": "RPM Noon to Noon",
+				"value": "79.53",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.23",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.23",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.03",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.03",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 3.99",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "3.99",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 37.27",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "37.27",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 31.24",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "31.24",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.21",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.21",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 1.82",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "1.82",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 414.24",
+				"key": "FO ROB at Noon",
+				"value": "414.24",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 241.87",
+				"key": "LSMGO ROB at Noon",
+				"value": "241.87",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-22",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-22",
+				"key": "Date at Noon",
+				"value": "Jul-22",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  11-03N 093-02W",
+				"key": "Position at noon",
+				"value": "11-03N 093-02W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -07:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-07:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 956",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "956",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 368",
+				"key": "Steaming Dist. From Last Report",
+				"value": "368",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.33",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.33",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 7256",
+				"key": "Steaming Dist. From Last Port",
+				"value": "7256",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 16.02",
+				"key": "Ave. Speed From Last Port",
+				"value": "16.02",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  E",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "E",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 63.9",
+				"key": "MCR Noon to Noon",
+				"value": "63.9",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  79.42",
+				"key": "RPM Noon to Noon",
+				"value": "79.42",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 36.06",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "36.06",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.03",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.03",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 39.43",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "39.43",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 32.94",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "32.94",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.18",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.18",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 2.31",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "2.31",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 374.81",
+				"key": "FO ROB at Noon",
+				"value": "374.81",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 241.77",
+				"key": "LSMGO ROB at Noon",
+				"value": "241.77",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-23",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-23",
+				"key": "Date at Noon",
+				"value": "Jul-23",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  08-29N 087-50W",
+				"key": "Position at noon",
+				"value": "08-29N 087-50W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -06:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-06:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 610",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "610",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 346",
+				"key": "Steaming Dist. From Last Report",
+				"value": "346",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 23",
+				"key": "Steaming Time From Last Report",
+				"value": "23",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.04",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.04",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 7602",
+				"key": "Steaming Dist. From Last Port",
+				"value": "7602",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 15.97",
+				"key": "Ave. Speed From Last Port",
+				"value": "15.97",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  W",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "W",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 63.9",
+				"key": "MCR Noon to Noon",
+				"value": "63.9",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  79.4",
+				"key": "RPM Noon to Noon",
+				"value": "79.4",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 35.9",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "35.9",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.02",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.02",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4.01",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4.01",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 38.27",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "38.27",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 31.37",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "31.37",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.01",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.01",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 2.89",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "2.89",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 336.54",
+				"key": "FO ROB at Noon",
+				"value": "336.54",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 241.67",
+				"key": "LSMGO ROB at Noon",
+				"value": "241.67",
+				"units": "MT"
+			}
+		]
+	},
+	{
+		"date": "2022-07-24",
+		"fields": [
+			{
+				"raw": "1) Vessel Name:  Gas Wisdom",
+				"key": "Vessel Name",
+				"value": "Gas Wisdom",
+				"units": ""
+			},
+			{
+				"raw": "2) Date at Noon:  Jul-24",
+				"key": "Date at Noon",
+				"value": "Jul-24",
+				"units": ""
+			},
+			{
+				"raw": "3) Position at noon:  06-54N 081-46W",
+				"key": "Position at noon",
+				"value": "06-54N 081-46W",
+				"units": ""
+			},
+			{
+				"raw": "4) Time Difference form UTC at Noon Position: hours -06:00",
+				"key": "Time Difference form UTC at Noon Position",
+				"value": "-06:00",
+				"units": "hours"
+			},
+			{
+				"raw": "5) DEPARTURE PORT:  ULSAN, KOREA",
+				"key": "DEPARTURE PORT",
+				"value": "ULSAN, KOREA",
+				"units": ""
+			},
+			{
+				"raw": "6) DESTINATION PORT:  BALBOA, PANAMA",
+				"key": "DESTINATION PORT",
+				"value": "BALBOA, PANAMA",
+				"units": ""
+			},
+			{
+				"raw": "7) Cargo P/B (44/00,33/11,22/22,11/33):  N/A",
+				"key": "Cargo P/B (44/00,33/11,22/22,11/33)",
+				"value": "N/A",
+				"units": ""
+			},
+			{
+				"raw": "8) Laden/Ballast voyage:  BALLAST",
+				"key": "Laden/Ballast voyage",
+				"value": "BALLAST",
+				"units": ""
+			},
+			{
+				"raw": "9) ORDERED SPEED(full eco adjust):  FULL",
+				"key": "ORDERED SPEED(full eco adjust)",
+				"value": "FULL",
+				"units": ""
+			},
+			{
+				"raw": "10) Master's ETA at Pilot Station:  Jul-25 7:00",
+				"key": "Master's ETA at Pilot Station",
+				"value": "Jul-25 7:00",
+				"units": ""
+			},
+			{
+				"raw": "11) Speed Used for Calculation of Such ETA: knots 15.8",
+				"key": "Speed Used for Calculation of Such ETA",
+				"value": "15.8",
+				"units": "knots"
+			},
+			{
+				"raw": "12) Remaining Distance to Pilot Station: NM 235",
+				"key": "Remaining Distance to Pilot Station",
+				"value": "235",
+				"units": "NM"
+			},
+			{
+				"raw": "13) Expected Arrival Draft  (Fore): m 5.7",
+				"key": "Expected Arrival Draft  (Fore)",
+				"value": "5.7",
+				"units": "m"
+			},
+			{
+				"raw": "　   Expected Arrival Draft (Aft)  : m 8.1",
+				"key": "Expected Arrival Draft (Aft)",
+				"value": "8.1",
+				"units": "m"
+			},
+			{
+				"raw": "14) Steaming Dist. From Last Report: NM 375",
+				"key": "Steaming Dist. From Last Report",
+				"value": "375",
+				"units": "NM"
+			},
+			{
+				"raw": "15) Steaming Time From Last Report: hours 24",
+				"key": "Steaming Time From Last Report",
+				"value": "24",
+				"units": "hours"
+			},
+			{
+				"raw": "16) Ave. Speed From Last Report: knots 15.63",
+				"key": "Ave. Speed From Last Report",
+				"value": "15.63",
+				"units": "knots"
+			},
+			{
+				"raw": "17) Steaming Dist. From Last Port: NM 7977",
+				"key": "Steaming Dist. From Last Port",
+				"value": "7977",
+				"units": "NM"
+			},
+			{
+				"raw": "18) Ave. Speed From Last Port: knots 15.95",
+				"key": "Ave. Speed From Last Port",
+				"value": "15.95",
+				"units": "knots"
+			},
+			{
+				"raw": "19) WEATHER LAST 24HR (BEAUFORT):  6",
+				"key": "WEATHER LAST 24HR (BEAUFORT)",
+				"value": "6",
+				"units": ""
+			},
+			{
+				"raw": "20) WEATHER LAST 24HR (WIND DIRECTION):  SSW",
+				"key": "WEATHER LAST 24HR (WIND DIRECTION)",
+				"value": "SSW",
+				"units": ""
+			},
+			{
+				"raw": "21) WEATHER LAST 24HR (DESCRIPTIVE):  Strong breeze Rough sea",
+				"key": "WEATHER LAST 24HR (DESCRIPTIVE)",
+				"value": "Strong breeze Rough sea",
+				"units": ""
+			},
+			{
+				"raw": "22) MCR Noon to Noon: % 71.6",
+				"key": "MCR Noon to Noon",
+				"value": "71.6",
+				"units": "%"
+			},
+			{
+				"raw": "23) RPM Noon to Noon:  82.49",
+				"key": "RPM Noon to Noon",
+				"value": "82.49",
+				"units": ""
+			},
+			{
+				"raw": "24) Ave. Daily FO Cons. of M/E from R/Up Eng: MT 35.88",
+				"key": "Ave. Daily FO Cons. of M/E from R/Up Eng",
+				"value": "35.88",
+				"units": "MT"
+			},
+			{
+				"raw": "25) Ave. Daily LSMGO Cons. of M/E from R/Up Eng: MT 0.02",
+				"key": "Ave. Daily LSMGO Cons. of M/E from R/Up Eng",
+				"value": "0.02",
+				"units": "MT"
+			},
+			{
+				"raw": "26) Ave. Daily FO Cons. of A/E from R/Up Eng: MT 4.02",
+				"key": "Ave. Daily FO Cons. of A/E from R/Up Eng",
+				"value": "4.02",
+				"units": "MT"
+			},
+			{
+				"raw": "27) Ave. Daily LSMGO Cons. of A/E from R/Up Eng: MT 0.11",
+				"key": "Ave. Daily LSMGO Cons. of A/E from R/Up Eng",
+				"value": "0.11",
+				"units": "MT"
+			},
+			{
+				"raw": "28) Total FO Cons. from Last Noon: MT 42.69",
+				"key": "Total FO Cons. from Last Noon",
+				"value": "42.69",
+				"units": "MT"
+			},
+			{
+				"raw": "29) Total LSMGO Cons. from Last Noon: MT 0.1",
+				"key": "Total LSMGO Cons. from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "30) FO Cons. of M/E from Last Noon: MT 35.46",
+				"key": "FO Cons. of M/E from Last Noon",
+				"value": "35.46",
+				"units": "MT"
+			},
+			{
+				"raw": "31) LSMGO Cons. of M/E from Last Noon: MT 0",
+				"key": "LSMGO Cons. of M/E from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "32) FO Cons. of A/E from Last Noon: MT 4.23",
+				"key": "FO Cons. of A/E from Last Noon",
+				"value": "4.23",
+				"units": "MT"
+			},
+			{
+				"raw": "33) LSMGO Cons. of A/E from Last Noon: MT 0.1",
+				"key": "LSMGO Cons. of A/E from Last Noon",
+				"value": "0.1",
+				"units": "MT"
+			},
+			{
+				"raw": "34) FO Bunker Cons. of Cargo Cooling from Last Noon: MT 3",
+				"key": "FO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "3",
+				"units": "MT"
+			},
+			{
+				"raw": "35) LSMGO Bunker Cons. of Cargo Cooling from Last Noon: MT 0",
+				"key": "LSMGO Bunker Cons. of Cargo Cooling from Last Noon",
+				"value": "0",
+				"units": "MT"
+			},
+			{
+				"raw": "36) FO ROB at Noon: MT 293.85",
+				"key": "FO ROB at Noon",
+				"value": "293.85",
+				"units": "MT"
+			},
+			{
+				"raw": "37) LSMGO ROB at Noon: MT 241.57",
+				"key": "LSMGO ROB at Noon",
+				"value": "241.57",
+				"units": "MT"
+			}
+		]
+	}
+]

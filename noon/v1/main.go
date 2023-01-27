@@ -1,4 +1,4 @@
-package v1
+package main
 
 import "time"
 
@@ -6,7 +6,7 @@ type RawReport struct {
 	Email      EmailEnvelope      `json:"email"`
 	Attachment AttachmentEnvelope `json:"attachment"`
 	Envelope   Envelope           `json:"envelope"`
-	Content    []Column           `json:"content"`
+	Reports    []Report           `json:"reports"`
 	Remarks    []Remark           `json:"remarks"`
 	Errors     []string           `json:"errors,omitempty"`
 }
@@ -32,27 +32,13 @@ type AttachmentEnvelope struct {
 
 // Envelope is intended to be parsed from Email Subject
 type Envelope struct {
-	ReportType string `json:"report-type"`
-	VesselUUID string `json:"vessel-uuid"`
-	// Should we have VesselIMO field here since we can obtain VesselUUID instead?
-	VesselIMO string `json:"vessel-imo"`
-	// We must define where we should take the value from,
-	// since the EMAIL has three places for this value
+	ReportType   string `json:"report-type"`
+	VesselIMO    string `json:"vessel-imo"`
 	VoyageNumber string `json:"voyage-number"`
 	Error        string `json:"error,omitempty"`
 }
-
-type Column struct {
-	ReportDate string   `json:"report-date"`
-	Records    []Record `json:"records"`
-	Error      string   `json:"error,omitempty"`
-}
-
-type Record struct {
-	RowID int `json:"row-id"`
-
-	// Fields is an array of fields, since one row could have more than one field
-	// for different values with different units of measurement
+type Report struct {
+	Date   string  `json:"date"`
 	Fields []Field `json:"fields"`
 	Error  string  `json:"error,omitempty"`
 }
@@ -62,7 +48,6 @@ type Field struct {
 	Key   string `json:"key"`
 	Value string `json:"value"`
 	Units string `json:"units"`
-	Error string `json:"error,omitempty"`
 }
 
 type Remark struct {
