@@ -4,6 +4,7 @@ import (
 	"archive/zip"
 	"encoding/base64"
 	"fmt"
+	"golang.design/x/clipboard"
 	"io"
 	"math"
 	"os"
@@ -11,12 +12,17 @@ import (
 )
 
 func main() {
-	body, err := os.ReadFile("./data.zip")
+	err := clipboard.Init()
 	if err != nil {
 		panic(err)
 	}
 
-	fmt.Println(base64.StdEncoding.EncodeToString(body))
+	body, err := os.ReadFile("./data/Archive.zip")
+	if err != nil {
+		panic(err)
+	}
+
+	clipboard.Write(clipboard.FmtText, []byte(base64.StdEncoding.EncodeToString(body)))
 }
 
 func prettyStr(source []byte, size uint) string {

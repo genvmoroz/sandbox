@@ -1,3 +1,3 @@
 ID;Code;Name;Department;InUse;Sorting;Groups;IsCrew;IsCrewMatrixOfficer;IsWatchkeepingOfficer;IsOfficer;IsTrainee;PromotionRankID
-7f364441-bb0f-4853-ac23-4cacf11bfa55;CPT;Captain;;true;10;73eca2cd-744b-460a-89a4-1770c30baeb4;true;true;true;false;true;
-3b40471a-376a-4d57-a7d6-157b3c53a40b;SCO;Senior chief officer;DECK;true;20;73eca2cd-744b-460a-89a4-1770c30baeb4;true;true;true;false;true;7f364441-bb0f-4853-ac23-4cacf11bfa55
+f05f35f6-a77e-4584-95a8-1b95eb612aa8;RC3;RANK_NAME_11;FOOTEST;true;10;07cd2791-d376-4eaa-888f-5dda69c5f367,5e7c384a-8dfc-410c-aa8d-74dfec7a4ada;true;true;true;false;true;
+0f3263ae-ecec-49ab-980a-f96dad4b3428;RC4;RANK_NAME_2;DECK;true;20;07cd2791-d376-4eaa-888f-5dda69c5f367;true;true;true;false;true;f05f35f6-a77e-4584-95a8-1b95eb612aa8

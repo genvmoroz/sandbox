@@ -4,8 +4,6 @@ import (
 	"context"
 	"fmt"
 	"log"
-	"strings"
-
 	crewing "sandbox/crewing/service"
 	"sandbox/tokenprovider"
 )
@@ -30,14 +28,4 @@ func main() {
 	}
 
 	fmt.Println(len(ranks))
-
-	for i := 0; i < len(ranks); i++ {
-		for y := i + 1; y < len(ranks); y++ {
-			if strings.EqualFold(ranks[i].Department, ranks[y].Department) {
-				fmt.Println(ranks[i].Department)
-				fmt.Println(ranks[y].Department)
-			}
-		}
-	}
-
 }
